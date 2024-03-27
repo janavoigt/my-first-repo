@@ -1,2 +1,3 @@
-# Hello Carray
-The first repo for Caraway
+# leraning GitHub and Markdown
+
+Today we are laerning GitHub and Markdow. 

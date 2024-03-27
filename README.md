@@ -24,3 +24,10 @@ Today we are laerning GitHub and Markdow.
 
 ### Image from web
 ![Flowers](https://hips.hearstapps.com/hmg-prod/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg)
+
+## Code
+
+`This is a code in line`
+
+### Code line
+This is how we write code in line `let name = "Caraway" `

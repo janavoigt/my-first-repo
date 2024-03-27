@@ -16,3 +16,8 @@ Today we are laerning GitHub and Markdow.
    
 ## Link a page
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+## Image
+
+### Image in repo.
+![Ron](./IMG_3705.JPG)

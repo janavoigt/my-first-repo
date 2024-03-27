@@ -31,3 +31,15 @@ Today we are laerning GitHub and Markdow.
 
 ### Code line
 This is how we write code in line `let name = "Caraway" `
+
+### code block
+```js
+let cohort = "Caraway";
+
+let loveMd = true;
+```
+
+```
+This is a code block
+```
+

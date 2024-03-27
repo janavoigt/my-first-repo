@@ -14,3 +14,5 @@ Today we are laerning GitHub and Markdow.
 2. Item 2
 3. iTEM 3
    
+## Link a page
+[Spiced Academy](https://www.spiced-academy.com/en)

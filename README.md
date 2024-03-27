@@ -22,6 +22,8 @@ Today we are laerning GitHub and Markdow.
 ### Image in repo.
 ![Ron](./IMG_3705.JPG)
 
+![Bear](./Animals/bear.jpg.webp)
+
 ### Image from web
 ![Flowers](https://hips.hearstapps.com/hmg-prod/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg)
 
